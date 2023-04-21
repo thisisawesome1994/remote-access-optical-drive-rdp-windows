@@ -4,7 +4,7 @@ How to enable remote access (rdp) in such way that it can access cd/dvd drives e
 
 The solution is to set this group policy:
 
-(run remotescsi.reg)
+(run remotescsi.ps1)
 
 Then change the following:
 
